@@ -1,0 +1,67 @@
+E:\Універ\Курсач намбер ван\FloydForms\FloydForms\bin\Debug\FloydForms.exe.config
+E:\Універ\Курсач намбер ван\FloydForms\FloydForms\obj\Debug\FloydForms.csprojResolveAssemblyReference.cache
+E:\Універ\Курсач намбер ван\FloydForms\FloydForms\obj\Debug\FloydForms.Form1.resources
+E:\Універ\Курсач намбер ван\FloydForms\FloydForms\obj\Debug\FloydForms.Properties.Resources.resources
+E:\Універ\Курсач намбер ван\FloydForms\FloydForms\obj\Debug\FloydForms.csproj.GenerateResource.Cache
+E:\Універ\Курсач намбер ван\FloydForms\FloydForms\bin\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\FloydForms\FloydForms\bin\Debug\FloydForms.pdb
+E:\Універ\Курсач намбер ван\FloydForms\FloydForms\obj\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\FloydForms\FloydForms\obj\Debug\FloydForms.pdb
+C:\Users\Olymp_32\Desktop\FloydForms\FloydForms\bin\Debug\FloydForms.exe.config
+C:\Users\Olymp_32\Desktop\FloydForms\FloydForms\obj\Debug\FloydForms.exe
+C:\Users\Olymp_32\Desktop\FloydForms\FloydForms\obj\Debug\FloydForms.pdb
+C:\Users\Olymp_32\Desktop\FloydForms\FloydForms\bin\Debug\FloydForms.exe
+C:\Users\Olymp_32\Desktop\FloydForms\FloydForms\bin\Debug\FloydForms.pdb
+C:\Users\Olymp_32\Desktop\FloydForms\FloydForms\obj\Debug\FloydForms.csprojResolveAssemblyReference.cache
+C:\Users\Olymp_32\Desktop\FloydForms\FloydForms\obj\Debug\FloydForms.Form1.resources
+C:\Users\Olymp_32\Desktop\FloydForms\FloydForms\obj\Debug\FloydForms.Properties.Resources.resources
+C:\Users\Olymp_32\Desktop\FloydForms\FloydForms\obj\Debug\FloydForms.csproj.GenerateResource.Cache
+C:\Documents and Settings\Student_2\Рабочий стол\FloydForms\FloydForms\bin\Debug\FloydForms.exe.config
+C:\Documents and Settings\Student_2\Рабочий стол\FloydForms\FloydForms\obj\Debug\FloydForms.exe
+C:\Documents and Settings\Student_2\Рабочий стол\FloydForms\FloydForms\obj\Debug\FloydForms.pdb
+C:\Documents and Settings\Student_2\Рабочий стол\FloydForms\FloydForms\bin\Debug\FloydForms.exe
+C:\Documents and Settings\Student_2\Рабочий стол\FloydForms\FloydForms\bin\Debug\FloydForms.pdb
+C:\Documents and Settings\Student_2\Рабочий стол\FloydForms\FloydForms\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Student_2\Рабочий стол\FloydForms\FloydForms\obj\Debug\FloydForms.Form1.resources
+C:\Documents and Settings\Student_2\Рабочий стол\FloydForms\FloydForms\obj\Debug\FloydForms.Properties.Resources.resources
+C:\Documents and Settings\Student_2\Рабочий стол\FloydForms\FloydForms\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\Student_2\Рабочий стол\FloydForms\FloydForms\obj\Debug\GenerateResource.write.1.tlog
+E:\Універ\Курсач намбер ван\FloydForms_new\FloydForms\bin\Debug\FloydForms.exe.config
+E:\Універ\Курсач намбер ван\FloydForms_new\FloydForms\obj\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\FloydForms_new\FloydForms\obj\Debug\FloydForms.pdb
+E:\Універ\Курсач намбер ван\FloydForms_new\FloydForms\bin\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\FloydForms_new\FloydForms\bin\Debug\FloydForms.pdb
+E:\Універ\Курсач намбер ван\FloydForms_new\FloydForms\obj\Debug\FloydForms.csprojResolveAssemblyReference.cache
+E:\Універ\Курсач намбер ван\FloydForms_new\FloydForms\obj\Debug\FloydForms.Form1.resources
+E:\Універ\Курсач намбер ван\FloydForms_new\FloydForms\obj\Debug\FloydForms.Properties.Resources.resources
+E:\Універ\Курсач намбер ван\FloydForms_new\FloydForms\obj\Debug\FloydForms.csproj.GenerateResource.Cache
+E:\Універ\Курсач намбер ван\FloydForms_another\FloydForms\bin\Debug\FloydForms.exe.config
+E:\Універ\Курсач намбер ван\FloydForms_another\FloydForms\obj\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\FloydForms_another\FloydForms\obj\Debug\FloydForms.pdb
+E:\Універ\Курсач намбер ван\FloydForms_another\FloydForms\bin\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\FloydForms_another\FloydForms\bin\Debug\FloydForms.pdb
+E:\Універ\Курсач намбер ван\FloydForms_another\FloydForms\obj\Debug\FloydForms.csprojResolveAssemblyReference.cache
+E:\Універ\Курсач намбер ван\FloydForms_another\FloydForms\obj\Debug\FloydForms.Form1.resources
+E:\Універ\Курсач намбер ван\FloydForms_another\FloydForms\obj\Debug\FloydForms.Properties.Resources.resources
+E:\Універ\Курсач намбер ван\FloydForms_another\FloydForms\obj\Debug\FloydForms.csproj.GenerateResource.Cache
+E:\Універ\Курсач намбер ван\FloydForms_main\FloydForms\bin\Debug\FloydForms.exe.config
+E:\Універ\Курсач намбер ван\FloydForms_main\FloydForms\obj\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\FloydForms_main\FloydForms\obj\Debug\FloydForms.pdb
+E:\Універ\Курсач намбер ван\FloydForms_main\FloydForms\bin\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\FloydForms_main\FloydForms\bin\Debug\FloydForms.pdb
+E:\Універ\Курсач намбер ван\FloydForms_main\FloydForms\obj\Debug\FloydForms.csprojResolveAssemblyReference.cache
+E:\Універ\Курсач намбер ван\FloydForms_main\FloydForms\obj\Debug\FloydForms.Form1.resources
+E:\Універ\Курсач намбер ван\FloydForms_main\FloydForms\obj\Debug\FloydForms.Properties.Resources.resources
+E:\Універ\Курсач намбер ван\FloydForms_main\FloydForms\obj\Debug\FloydForms.csproj.GenerateResource.Cache
+E:\Універ\Курсач намбер ван\FloydForms_main – копія\FloydForms\bin\Debug\FloydForms.exe.config
+E:\Універ\Курсач намбер ван\FloydForms_main – копія\FloydForms\obj\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\FloydForms_main – копія\FloydForms\obj\Debug\FloydForms.pdb
+E:\Універ\Курсач намбер ван\FloydForms_main – копія\FloydForms\bin\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\FloydForms_main – копія\FloydForms\bin\Debug\FloydForms.pdb
+E:\Універ\Курсач намбер ван\FloydForms_main – копія\FloydForms\obj\Debug\FloydForms.csprojResolveAssemblyReference.cache
+E:\Універ\Курсач намбер ван\FloydForms_main – копія\FloydForms\obj\Debug\FloydForms.Form1.resources
+E:\Універ\Курсач намбер ван\FloydForms_main – копія\FloydForms\obj\Debug\FloydForms.Properties.Resources.resources
+E:\Універ\Курсач намбер ван\FloydForms_main – копія\FloydForms\obj\Debug\FloydForms.csproj.GenerateResource.Cache
+E:\Універ\Курсач намбер ван\Course_work\Program\FloydForms\bin\Debug\FloydForms.exe.config
+E:\Універ\Курсач намбер ван\Course_work\Program\FloydForms\obj\Debug\FloydForms.exe
+E:\Універ\Курсач намбер ван\Course_work\Program\FloydForms\obj\Debug\FloydForms.pdb
